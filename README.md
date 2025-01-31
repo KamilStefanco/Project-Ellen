@@ -5,6 +5,7 @@
 ## 📌 **Features**
 - 🎯 Level-based gameplay
 - 🏹 Various enemy types that shoot projectiles
+- 🚀 Pickup ammo and health packs
 - 🔄 Utilize various items in your backpack
 
 
